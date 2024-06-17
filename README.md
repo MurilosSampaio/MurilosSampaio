@@ -1,6 +1,6 @@
 <h3 align="center">I'm Murilo Sampaio</h3>
 <p align="center"> I'm currently doing my PhD thesis at the University of São Paulo in Physics Applied to Medicine and Biology.</p>
-<h4 align="center">Enter in contact with me : **murilosansampaio@gmail.com </h4>
+<h4 align="center">Enter in contact with me : murilosansampaio@gmail.com </h4>
 
 <p align="left">
 
