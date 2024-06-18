@@ -1,5 +1,5 @@
 <h3 align="center">I'm Murilo Sampaio</h3>
-<p align="center"> I'm currently doing my PhD thesis at the University of São Paulo in Physics Applied to Medicine and Biology.</p>
+<p align="center">I'm currently doing my PhD thesis at the University of São Paulo in Physics Applied to Medicine and Biology. Working with light interaction with biological tissue, I'm focusing on methodologies that involve machine learning and bioinspired computational methods. I really enjoy programming and trying new technologies.</p>
 <h4 align="center">Enter in contact with me : murilosansampaio@gmail.com </h4>
 
 <p align="left">
